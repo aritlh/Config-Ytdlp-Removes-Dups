@@ -60,11 +60,7 @@ all across North America and nobody has
 ├── main.sh
 └── rmdp.sh
 ```
-
-## Features
-
-- :ballot_box_with_check: Single video
-- :construction: Playlist video
+> Support single video only, not playlist
 
 ## License
 [MIT](LICENSE)
