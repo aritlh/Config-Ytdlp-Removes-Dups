@@ -46,6 +46,20 @@ all across North America and nobody has
 - Enter the repo directory
 - Run `chmod +x *`
 - Run `./main.sh`
+- You'll see the output
+```
+.
+├── LICENSE
+├── README.md
+├── cvtt.sh
+├── embd.sh
+├── finished                                                            # Output Folder
+│   ├── How programmers flex on each other [r6tH55syq0o].mp4
+│   ├── How programmers flex on each other [r6tH55syq0o].srt
+│   └── How programmers flex on each other [r6tH55syq0o]_subbed.mp4     # Subbed
+├── main.sh
+└── rmdp.sh
+```
 
 ## Features
 
