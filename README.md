@@ -45,7 +45,12 @@ all across North America and nobody has
 - Clone this repo
 - Enter the repo directory
 - Run `chmod +x *`
-- Run `./cyrd.sh`
+- Run `./main.sh`
+
+## Features
+
+- :ballot_box_with_check: Single video
+- :construction: Playlist video
 
 ## License
 [MIT](LICENSE)
