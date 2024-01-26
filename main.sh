@@ -1,5 +1,8 @@
 #!/bin/bash
 read -p "Enter youtube URL: " youtube_url
+
+# Removes the part of the URL after the "&" character
+youtube_url=$(echo "$youtube_url" | sed 's/\&.*//')
 echo
 
 echo "Select subtitle language:"
