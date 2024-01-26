@@ -46,3 +46,6 @@ all across North America and nobody has
 - Enter the repo directory
 - Run `chmod +x *`
 - Run `./cyrd.sh`
+
+## License
+[MIT](LICENSE)
