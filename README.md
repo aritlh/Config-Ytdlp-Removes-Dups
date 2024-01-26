@@ -54,8 +54,6 @@ all across North America and nobody has
 ├── cvtt.sh
 ├── embd.sh
 ├── finished                    # Output Folder
-│   ├── <file_name>.mp4
-│   ├── <file_name>.srt
 │   └── <file_name>_subbed.mp4  # Subbed
 ├── main.sh
 └── rmdp.sh
