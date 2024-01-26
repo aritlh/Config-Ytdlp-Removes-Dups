@@ -53,10 +53,10 @@ all across North America and nobody has
 ├── README.md
 ├── cvtt.sh
 ├── embd.sh
-├── finished                                                            # Output Folder
-│   ├── How programmers flex on each other [r6tH55syq0o].mp4
-│   ├── How programmers flex on each other [r6tH55syq0o].srt
-│   └── How programmers flex on each other [r6tH55syq0o]_subbed.mp4     # Subbed
+├── finished                    # Output Folder
+│   ├── <file_name>.mp4
+│   ├── <file_name>.srt
+│   └── <file_name>_subbed.mp4  # Subbed
 ├── main.sh
 └── rmdp.sh
 ```
