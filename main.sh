@@ -60,7 +60,7 @@ esac
 yt-dlp --sub-format "vtt" --write-auto-subs --sub-langs "$sub_lang" --embed-chapters --embed-thumbnail -f "$vid_format" "$youtube_url"
 echo
 
-# Convert .ttv
+# Convert .vtt
 read -p "You want to convert ttv file and remove dups? (y/n) " ttv_convert_rm_dups
 if [[ "$ttv_convert_rm_dups" == "y" ||  "$ttv_convert_rm_dups" == "yes" ]]; then
     bash cvtt.sh
